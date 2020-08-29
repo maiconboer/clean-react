@@ -1,2 +1,2 @@
 # clean-react
-Em construção - Curso
+Em construção - Curso.
